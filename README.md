@@ -124,7 +124,7 @@ chest-xray-ensemble/
 │   ├── 03_ViT_Base16_Training.ipynb
 │   ├── 04_DINOv2_MultiModal_Training.ipynb
 │   ├── 05_ConvNeXt_V2_Training.ipynb
-│   └── 06_Bagging_Experiments.ipynb
+│   └── Accuracy.ipynb
 │
 ├── logs/                              # Training logs
 │   ├── training_log.txt               # EfficientNet-B0 training log
