@@ -1,0 +1,33 @@
+{
+  "best_weights": {
+    "B0": 0.2,
+    "B3": 0.18,
+    "ViT": 0.3,
+    "DINO": 0.1,
+    "CNX": 0.22
+  },
+  "final_auc": 0.8641651502394206,
+  "minority_avg": 0.9457912089040754,
+  "per_class": {
+    "Atelectasis": 0.7616049934950583,
+    "Consolidation": 0.7730837857803234,
+    "Infiltration": 0.7216437188091505,
+    "Pneumothorax": 0.9012347426486983,
+    "Edema": 0.9292713077067177,
+    "Emphysema": 0.9593388661746481,
+    "Fibrosis": 0.9465347529724665,
+    "Effusion": 0.8242943775076848,
+    "Pneumonia": 0.9106585919812228,
+    "PleuralThickening": null,
+    "Cardiomegaly": 0.9392078289621301,
+    "Nodule": 0.7607337007470847,
+    "Mass": 0.8233877606419604,
+    "Hernia": 0.9831525256853217
+  },
+  "progression": {
+    "phase7_4way": 0.8592,
+    "phase7_4way_tta": 0.8607194051195682,
+    "phase8_5way_no_tta": 0.8622749498930979,
+    "phase8_5way_full_tta": 0.8641651502394206
+  }
+}
