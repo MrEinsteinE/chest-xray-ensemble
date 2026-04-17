@@ -7,11 +7,11 @@
 
 > **Heterogeneous Multi-Architecture Ensemble with Test-Time Augmentation for Multi-Label Chest X-Ray Classification on NIH ChestX-ray14**
 >
-> [Author 1 Name]\*, [Author 2 Name]\*, [Guide/Advisor Name]†
+> Einstein Ellandala\*, Abhishek Dhaladhuli\*, Mohd Abdul Hameed†
 >
 > \*Equal Contribution  †Advisor
 >
-> [Department, Institution]
+> Computer Science and Engineering, Osmania university]
 
 ## 📋 Abstract
 
@@ -280,15 +280,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - NIH Clinical Center for the ChestX-ray14 dataset
 - Stanford ML Group for the CheXNet benchmark
 - PyTorch and Hugging Face communities
-- [Guide/Advisor Name] for guidance and supervision
+- Mohd Abdul Hameed for guidance and supervision
 
 ---
 
 ## 📬 Contact
 
-- **[Author 1 Name]** — [email1@institution.edu]
-- **[Author 2 Name]** — [email2@institution.edu]
-- **[Guide/Advisor Name]** (Advisor) — [guide@institution.edu]
+- **[Einstein Ellandala]** — [einsteinellandala@gmail.com]
+- **[Abhishek Dhaladhuli]** — [abhishekdhaladhuli@gmail.com]
+- **[Mohd Abdul Hameed]** (Advisor) — [professor.hameed@gmail.com]
 
 ---
 
